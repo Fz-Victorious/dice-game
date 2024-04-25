@@ -1,0 +1,53 @@
+:root
+{
+    --text-color: #4ECCA3;
+}
+
+*{
+    box-sizing: border-box;
+    margin:0;
+}
+
+body{
+    background-color: #25282e;
+    height: 100vh;
+}
+
+.wrapper{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+h1{
+    color: var(--text-color);
+    font-family: "Lobster", sans-serif;
+    font-size: 8rem;
+    text-shadow: 5px 0 #232931;
+    margin-bottom: 4rem;
+}
+
+.players-wrapper{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+}
+
+.player-title{
+    color: var(--text-color);
+    font-family: "Indie Flower", cursive;
+    font-size: 2rem;
+    margin-bottom:1.5rem;
+}
+
+img{
+    width: 80%;
+}
+
+footer{
+    margin-top: 10%;
+    color: #EEEEEE;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.2rem;
+}
