@@ -8,3 +8,5 @@ was higher.
 
 # screenshot:
 ![Capture](https://github.com/Fz-Victorious/dice-game/assets/100221567/88e543bf-7f07-4c8a-8e78-a08696ac5653)
+
+![Capture 2](https://github.com/Fz-Victorious/dice-game/assets/100221567/8fbe5352-0e9d-4fa2-b02e-fbd3176fac95)
